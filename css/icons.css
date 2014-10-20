@@ -1,0 +1,49 @@
+[icon ="odt"] {
+   padding-right: 20px;
+   background: transparent url(../images/ico/odf_text.png) no-repeat center right;
+}
+
+[icon ="pages"] {
+   padding-right: 20px;
+   background: transparent url(../images/ico/apple_pages.png) no-repeat center right;
+}
+
+[icon ="txt"] {
+   padding-right: 20px;
+   background: transparent url(../images/ico/page_white_text.png) no-repeat center right;
+}
+
+[icon ="doc"] {
+   padding-right: 20px;
+   background: transparent url(../images/ico/page_white_word.png) no-repeat center right;
+}
+
+[icon ="docx"] {
+   padding-right: 20px;
+   background: transparent url(../images/ico/page_word.png) no-repeat center right;
+}
+
+[icon ="pdf"] {
+   padding-right: 20px;
+   background: transparent url(../images/ico/page_white_acrobat.png) no-repeat center right;
+}
+
+[icon ="xps"] {
+   padding-right: 20px;
+   background: transparent url(../images/ico/page_white_swoosh.png) no-repeat center right;
+}
+
+[icon ="external"] {
+   padding-right: 20px;
+   background: transparent url(../images/ico/world_go.png) no-repeat center right;
+}
+
+[icon ="popup"] {
+   padding-right: 20px;
+   background: transparent url(../images/ico/shape_move_forwards.png) no-repeat center right;
+}
+
+[icon ="email"] {
+   padding-right: 20px;
+   background: transparent url(../images/ico/email_go.png) no-repeat center right;
+}
